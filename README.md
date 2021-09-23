@@ -1,1 +1,2 @@
 # TerrenoRep
+git add --all
