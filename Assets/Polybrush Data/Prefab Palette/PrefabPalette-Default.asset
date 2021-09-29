@@ -93,3 +93,131 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: patronpiso (1) Variant
+  - gameObject: {fileID: 1369031296425274, guid: 22a3fd8d3e59a1149bdcd775c0e87241, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: rpgpp_lt_tree_pine_01
+  - gameObject: {fileID: 1458573784885960, guid: 6910e2407cd484a42a0c2598114751a0, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: rpgpp_lt_tree_02
+  - gameObject: {fileID: 5023827496289606453, guid: a79279818571b6848a9ccb8dcb36dd2c, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Tree3
+  - gameObject: {fileID: 8402614890987163458, guid: 169e5f050a9f145489237cc7105f3c1d, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Rock12
+  - gameObject: {fileID: 3163170946955520158, guid: 387f66ad181e92a48a858cf3a9e7df2f, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Rock7
+  - gameObject: {fileID: 5142532879768883847, guid: 5983c8a04c0e73047a6c860b9cd9aaad, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Tree1
+  - gameObject: {fileID: 8944619187265165564, guid: c2cb5e8a081a26c4a94df01eb6c4e44c, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Rock9
+  - gameObject: {fileID: 4127458443936199739, guid: 8ac33b2347e9f3c44b5343e4d23173f9, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Tent
